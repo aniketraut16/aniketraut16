@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi there, I'm Aniket! 👋<br><br>I'm a Full Stack Web Developer and aspiring Machine Learning enthusiast currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Ramdeo Baba University. I'm passionate about crafting robust web applications, diving into the world of AI/ML, and exploring the intersections of technology and creativity.<br><br>
+<h1 align="center">Hi 👋, I'm Aniket Raut</h1>
+<h3 align="center">A Full Stack Web Developer and aspiring Machine Learning enthusiast currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Ramdeo Baba University. I'm passionate about crafting robust web applications, diving into the world of AI/ML, and exploring the intersections of technology and creativity.</h3>
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+<!-- Holopin Badges -->
+[![An image of @aniketraut16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketraut16)](https://holopin.io/@aniketraut16)
 
 🔭 I’m currently working on<br>
 - Enhancing my skills in both frontend and backend development<br>
