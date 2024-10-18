@@ -32,7 +32,6 @@
 - When I'm not coding, you can find me on the cricket field, either playing or watching the game.<br>
 - I also enjoy spending time editing videos, exploring different editing techniques and styles.
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aniiiii_16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ani_ket.22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketraut16) 
 
@@ -43,8 +42,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aniketraut16&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraut16&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aniketraut16&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+# 💡 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/rautnaniket?theme=dark&font=Philosopher&ext=heatmap)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
