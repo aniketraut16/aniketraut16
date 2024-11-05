@@ -5,20 +5,20 @@
 <!-- Holopin Badges -->
 [![An image of @aniketraut16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketraut16)](https://holopin.io/@aniketraut16)
 
-🔭 I’m currently working on<br>
+## 🔭 I’m currently working on<br>
 - Enhancing my skills in both frontend and backend development<br>
 - Exploring machine learning algorithms and their applications<br>
 - Working on personal web development projects to expand my portfolio<br><br>
 
-👯 I’m looking to collaborate on<br>
+## 👯 I’m looking to collaborate on<br>
 - Open source projects related to web development or machine learning<br>
 - Freelance opportunities to contribute my skills to exciting projects<br><br>
 
-🤝 I’m looking for help with<br>
+## 🤝 I’m looking for help with<br>
 - Understanding advanced machine learning concepts<br>
 - Improving my coding practices and architecture design<br><br>
 
-🌱 I’m currently learning<br>
+## 🌱 I’m currently learning<br>
 - Deep learning algorithms and frameworks like TensorFlow and PyTorch<br>
 - Advanced JavaScript concepts and modern frontend development tools<br>
 - Strategies for effective project management and collaboration<br><br>
@@ -28,7 +28,7 @@
 - Getting started with machine learning and AI<br>
 - Tips for balancing academics with personal projects and hobbies<br><br>
 
-⚡ Fun fact<br>
+## ⚡ Fun fact<br>
 - When I'm not coding, you can find me on the cricket field, either playing or watching the game.<br>
 - I also enjoy spending time editing videos, exploring different editing techniques and styles.
 
