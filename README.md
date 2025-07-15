@@ -68,4 +68,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aniketraut16&icon=6&color=9)](https://visitcount.itsvg.in)
 
+
+## Visitor's Brief
+[![Visitor's Count](https://komarev.com/ghpvc/?username=aniketraut16&color=brightgreen)](https://github.com/aniketraut16)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
